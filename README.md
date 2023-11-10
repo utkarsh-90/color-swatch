@@ -1,2 +1,3 @@
 # color-swatch
-This is a small beginners level JavaScript Project. 
+This is a small beginner-level JavaScript Project. 
+This Project is a part of my Js Project List.
